@@ -17,7 +17,7 @@ VirtualClickBot is a tool to record and replay tasks inside VM, controlled from 
 
 ## Getting started
 
- * Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads])
+ * Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
  * Copy the VM.py inside the VM, start it with python
  * Start the main.py on any system in reach of the VM (e.g. locally)
 
