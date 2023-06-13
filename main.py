@@ -4,7 +4,7 @@ import json
 import os
 import tkinter as tk
 from tkinter import messagebox, simpledialog
-from tkinter import ttk  # For drop-down menus
+from tkinter import ttk
 import subprocess
 
 PROFILES_FILENAME = '../profiles.json'
